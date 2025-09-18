@@ -1,4 +1,4 @@
 print("this is test2")
 print("this is test2.1")
-a = "pull test3" #change on hub
-#>>>>>>> 90118d52f96242923a115ad8156ef5f62f88727f
+b = "test for pull diff branch"
+#>>>>>>> af4120ce2233cd18bcd78a33beca3d763f3cab0c
