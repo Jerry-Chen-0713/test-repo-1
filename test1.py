@@ -5,5 +5,8 @@ if i > 9
     print("this is test1.1")
     
 #added on b1
+#<<<<<<< HEAD
+#a = 5 # test-b5
+#=======
 a = 6 # test-b6
-#>>>>>>> main
+#>>>>>>> test-b6
